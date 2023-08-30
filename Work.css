@@ -1,0 +1,142 @@
+form.register {
+    color: rgba(2, 81, 21, 0.865);
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(174, 150, 44);
+    color: rgb(177, 161, 88);
+    border-radius: 20px;
+
+}
+
+.pi {
+    text-align: center;
+    font-size: 50px;
+    border: 10px;
+    color: rgba(2, 81, 21, 0.865);
+
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: rgb(171, 9, 9);
+
+}
+
+.pass {
+    height: 20px;
+    width: 20px;
+}
+
+body {
+
+
+    background-color: rgb(223, 225, 228);
+    background-color: rgb(223, 225, 228);
+    /* background-image: url("job.jpg");
+    background-repeat:no-repeat; */
+
+
+
+
+
+
+
+}
+
+.r {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input {
+    border-radius: 15px;
+    border-width: 5px;
+
+
+    text-align: center;
+    width: 200px;
+    height: 40px;
+
+    border-color: rgb(67, 65, 58);
+    border-color: rgb(2, 1, 27);
+    border-bottom: 10px;
+    border-top: 10px;
+    border-left: 0px;
+
+
+    background-color: rgb(177, 161, 88);
+    background-color: rgba(252, 252, 252, 0.954);
+    margin: 20px;
+    font-weight: bold;
+    box-shadow: 6px 10px 10px rgb(10, 10, 69);
+    ;
+
+
+
+
+
+}
+
+button:hover {
+    color: rgba(243, 88, 88, 0.739);
+    color: rgba(212, 210, 210, 0.826);
+    color: white;
+    font-weight: bold;
+    box-shadow: 6px 6px 10px rgba(52, 121, 158, 0.739);
+
+
+
+}
+
+button {
+    color: whitesmoke;
+    border-bottom: 10px;
+    border-top: 10px;
+
+
+    background-color: rgb(6, 4, 56);
+
+    width: 200px;
+    height: 50px;
+    border-width: 4px;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 15px;
+    border-left: 0px;
+    ;
+    border-right: 0px;
+    box-shadow: 6px 6px 10px rgba(225, 41, 41, 0.739);
+
+}
+
+.account {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+a:hover {
+    color: rgb(67, 66, 62);
+    font-weight: bold;
+}
+
+a:active {
+    color: rgb(28, 108, 28);
+}
+
+a {
+    color: rgb(20, 99, 147);
+}
+
+img {
+    border-radius: 30px;
+    margin-left: 600px;
+    width: 100px;
+    height: 60px;
+
+}
